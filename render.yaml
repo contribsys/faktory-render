@@ -1,8 +1,0 @@
-services:
-- type: pserv
-  name: faktory
-  env: docker
-  disk:
-    name: data
-    mountPath: /var/lib/faktory
-    sizeGB: 5
