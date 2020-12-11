@@ -1,8 +1,12 @@
 ## Deploying Faktory to Render.com
-[render.com](https://render.com) is a SaaS which makes it really easy to deploy custom
-Docker-based services around the world with a few clicks.
 
-1. Sign up for render.com.
+[Render](https://render.com) is a SaaS which makes it really easy to deploy custom
+Docker-based services around the world with a few clicks.
+[Faktory](/contribsys/faktory/wiki) is a
+persistent background job system for any programming language. Let's get a Faktory
+instance running for your app.
+
+1. Sign in at Render.com.
 2. On your Dashboard, select "New Private Service".
 3. Paste in the URL for this repo:
    https://github.com/contribsys/faktory-render and click the box that
